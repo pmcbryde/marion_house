@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## Marion House
 
-You can use the [editor on GitHub](https://github.com/pmcbryde/marion_house/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmcbryde/marion_house/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div class="curalate-widget" style="max-width: 1920px; margin: auto; min-width: 240px; min-height: 240px;"><div class="curalate-widget-container" style="position: relative; width: 100%; height: 0; border-radius: 3px; padding-bottom: 66.66666666666666%;"><iframe src="https://r.curalate.com/v2/widget/Wk1lFOaBED5FUBS6P0NWWSDpaHroh66w?shopButtonText=View Details&amp;replaceTabs=false&amp;spatialTagIcon=tag" class="curalate-widget-iframe" allowtransparency="true" frameborder="0" display="block" scrolling="no" width="1920" height="1280" style="z-index: 1; border-radius: 3px; position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe><img src="https://d28m5bx785ox17.cloudfront.net/v1/img/TI5arIaTxV_E8fnEdttZiHLSTACrwYiWw5NpNmLqnRY=/d/l" class="curalate-widget-image" style="position: relative !important; z-index: 0 !important; width: 100%; border-radius: 3px;"/><script class="curalate-widget-script" async="" defer="" charset="utf-8" src="https://d30bopbxapq94k.cloudfront.net/js/curalate-widget-client-all-v3.min.js"></script></div></div>
